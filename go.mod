@@ -1,3 +1,3 @@
 module github.com/decorickey/go-algorithms-and-data-structures.git
 
-go 1.24.0
+go 1.25.4
